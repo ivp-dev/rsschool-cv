@@ -8,6 +8,13 @@
 body {
   color: var(--main-text-color-dark);
   background-color: var(--bg-color-light);
+  font-size: 0.9rem;
+  -webkit-print-color-adjust: exact;
+}
+
+h1 {
+  margin-top: 0.95rem;
+  margin-bottom: 0.95rem;
 }
 
 .container {
